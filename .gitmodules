@@ -1,0 +1,3 @@
+[submodule "Modules\\websocket-sharp"]
+	path = Modules\\websocket-sharp
+	url = https://github.com/fringebits/websocket-sharp.git

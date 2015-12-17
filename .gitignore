@@ -1,0 +1,14 @@
+#Visual Studio files
+*.[Oo]bj
+*.user
+*.aps
+*.vspx
+*.psess
+*.metaproj
+*.metaproj.tmp
+.vs/
+ipch/
+obj/
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
